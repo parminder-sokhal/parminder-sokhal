@@ -1,5 +1,5 @@
-🔭 I’m currently working on Java & Web Development
+🔭 My primary language is Java & DSA
 
-🌱 I’m currently learning Full Stack Development
+🌱 I’m currently Working as Full Stack Developer
 
-📫 How to reach me: LinkedIn - https://www.linkedin.com/in/parminder-sokhal-13294a241
+📫 How to reach me: LinkedIn - https://www.linkedin.com/in/parminder-sokhal/
