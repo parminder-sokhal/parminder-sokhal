@@ -18,4 +18,4 @@
 - **Email**: [Drop me a line at](mailto:parmindersokhal22@gmail.com)  
 - **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/parminder-sokhal)  
 - **GitHub**: [Check out my projects on GitHub](https://github.com/parminder-sokhal)  
-- **Instagram**: [Explore my projects on Instagram](https://www.instagram.com/parmindersokhal)
+- **Instagram**: [Explore my projects on Instagram](https://www.instagram.com/parminder_sokhal)
